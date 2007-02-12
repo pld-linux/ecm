@@ -1,5 +1,5 @@
 Summary:	The ECMNET Project
-Summary(pl.UTF-8):   Projekt ECMNET
+Summary(pl.UTF-8):	Projekt ECMNET
 Name:		ecm
 Version:	5.0.3
 Release:	0.1
