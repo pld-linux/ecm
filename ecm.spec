@@ -1,5 +1,5 @@
 Summary:	The ECMNET Project
-Summary(pl):	Projekt ECMNET
+Summary(pl.UTF-8):   Projekt ECMNET
 Name:		ecm
 Version:	5.0.3
 Release:	0.1
@@ -17,9 +17,9 @@ The ECMNET Project - its goals are:
 - Help to find new factors of Cunningham numbers
 - Find a record factor
 
-%description -l pl
-Projekt ECMNET, którego celami s±:
-- pomoc w szukaniu nowych czynników liczb Cunninghama
+%description -l pl.UTF-8
+Projekt ECMNET, ktÃ³rego celami sÄ…:
+- pomoc w szukaniu nowych czynnikÃ³w liczb Cunninghama
 - znalezienie rekordowego czynnika
 
 %prep
